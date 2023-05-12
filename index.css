@@ -478,5 +478,7 @@ header {
     padding: 1em;
 }
 
-
+.rights{
+    color: var(--accent-color);
+}
 
